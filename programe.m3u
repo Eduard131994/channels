@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Pro Cinema" tvg-logo="https://streamtest.in/fallback/default.png?v=1592137168", Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:-1 , Pro Tv
+acestream://0ed726acf4a5ef04c93077f10f02729743f46f38
+#EXTINF:-1 , Pro X
+acestream://98e0da6a473faec82ddf9c53f7e15f79707f16e3
+#EXTINF:-1 , TVR 1 
+acestream://edbd2d7f811939cadb212982eb32c4506140e4a1
+#EXTINF:-1 , TVR 2
+acestream://0151921ff4f90629be026fd4f3a2d6b82dcd60ce
+#EXTINF:-1 , TVR 3
+acestream://fa94e8d679229ff8c4afb58100746e025e386beb
+#EXTINF:-1 , HBO 
+acestream://113ac47b5e0d21dcbfc16c5c4a5a8724f054ba4d
+#EXTINF:-1 , HBO 2
+acestream://518d3a1e308f2e53dde4e4ed9fec035f3da4a42a
+#EXTINF:-1 , HBO 3
+acestream://095bc46b3c43144d645f821221832455729f8d87
+#EXTINF:-1 , Comedy Central
+acestream://d618637c10d50c6efa1ac68286d8ed462d614984
+#EXTINF:-1 , National Geographic
+acestream://5b59a479b3dc95751a9edbb54b140383424df2e6
+#EXTINF:-1 , Discovery Science
+acestream://2c7650d2f01102f03d397bfc4c46fb9a1d52fb67
+#EXTINF:-1 , Discovery Channel
+acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f
+#EXTINF:-1 , History
+acestream://15e85178bfe228a6655b27b48d8b01ef543e6870
+#EXTINF:-1 , National TV
+acestream://e3169b1015015320bdbf7081befc0d35fb9026d3
+#EXTINF:-1 , TV 1000
+acestream://9258b70f23c2962855918a13ff67bcb42ced8af8
+#EXTINF:-1 , Prima TV
+acestream://5183457931c05909345be724f28c4da824ad053b
+#EXTINF:-1 , Paramount Channel
+acestream://73b4d9c2c33d67e3dc3dc4f7da633b458eded25d
+#EXTINF:-1 , Film Cafe
+acestream://fd4142b02f876ad8c46f72801b2963535cd771d3
+#EXTINF:-1 , Viasat History
+acestream://428306b01ec262d0ba1de65c526b020abd3e612e
+#EXTINF:-1 , Cinemax
+acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257
+
