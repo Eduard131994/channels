@@ -4,11 +4,11 @@ https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1 , Pro Tv
 acestream://0ed726acf4a5ef04c93077f10f02729743f46f38
 #EXTINF:-1 , Pro X
-acestream://98e0da6a473faec82ddf9c53f7e15f79707f16e3
+acestream://343a9aae2a4aabd31df04b77d7cccc0ca8308118
 #EXTINF:-1 , TVR 1 
-acestream://edbd2d7f811939cadb212982eb32c4506140e4a1
+acestream://e7fa5081e6287a8adf69121eb564657514ffd396
 #EXTINF:-1 , TVR 2
-acestream://0151921ff4f90629be026fd4f3a2d6b82dcd60ce
+acestream://1329074b08a3dbeb178f6cd10a35bffb929b30e8
 #EXTINF:-1 , TVR 3
 acestream://fa94e8d679229ff8c4afb58100746e025e386beb
 #EXTINF:-1 , HBO 
@@ -18,27 +18,27 @@ acestream://518d3a1e308f2e53dde4e4ed9fec035f3da4a42a
 #EXTINF:-1 , HBO 3
 acestream://095bc46b3c43144d645f821221832455729f8d87
 #EXTINF:-1 , Comedy Central
-acestream://d618637c10d50c6efa1ac68286d8ed462d614984
+acestream://aaf2cd02c80b3e76425644948cda362e6f5a4247
 #EXTINF:-1 , National Geographic
-acestream://5b59a479b3dc95751a9edbb54b140383424df2e6
+acestream://2a5bfd0aba0ed173a0e0bddd24f334cba01ab601
 #EXTINF:-1 , Discovery Science
-acestream://2c7650d2f01102f03d397bfc4c46fb9a1d52fb67
+acestream://8201dea0342ff861fa9a3888f343bffa6f3d6d55
 #EXTINF:-1 , Discovery Channel
 acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f
 #EXTINF:-1 , History
-acestream://15e85178bfe228a6655b27b48d8b01ef543e6870
+acestream://481acdb339af2defe051b313f4a8530a7535c03e
 #EXTINF:-1 , National TV
-acestream://e3169b1015015320bdbf7081befc0d35fb9026d3
+acestream://ab54099288ecf027596e81726f14ed1bba922e57
 #EXTINF:-1 , TV 1000
-acestream://9258b70f23c2962855918a13ff67bcb42ced8af8
+acestream://22f06313165a702973f7a895b2e349f4d4c8b343
 #EXTINF:-1 , Prima TV
-acestream://5183457931c05909345be724f28c4da824ad053b
+acestream://5e2fbac58046a21f69258e11ea61cbf651a86c11
 #EXTINF:-1 , Paramount Channel
-acestream://73b4d9c2c33d67e3dc3dc4f7da633b458eded25d
+acestream://4131087d4a664b0987e60b960e2a541110b207ee
 #EXTINF:-1 , Film Cafe
-acestream://fd4142b02f876ad8c46f72801b2963535cd771d3
+acestream://d214b9fa0a4d7697aa7ff940ac659a20d3a04780
 #EXTINF:-1 , Viasat History
-acestream://428306b01ec262d0ba1de65c526b020abd3e612e
+acestream://1f33cdf4bf7a3c410f5cc6b3122caf18221e5651
 #EXTINF:-1 , Cinemax
 acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257
 
