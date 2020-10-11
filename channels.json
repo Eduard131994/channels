@@ -3,8 +3,123 @@
 	[
 		{
 			"id": 1,
-			"name": "Protv",
-			"url": "test"
+			"name": "Pro Tv",
+			"url": "acestream://0ed726acf4a5ef04c93077f10f02729743f46f38",
+			"icon": "https://mywebtv.info/storage/app/media/channels/Pro%20TV%20HD.png"
+		},
+		{
+			"id": 2,
+			"name": "Pro X",
+			"url": "acestream://98e0da6a473faec82ddf9c53f7e15f79707f16e3",
+			"icon": "https://mywebtv.info/storage/app/media/channels/pro%20x.png"
+		},
+		{
+			"id": 3,
+			"name": "TVR 1",
+			"url": "acestream://edbd2d7f811939cadb212982eb32c4506140e4a1",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/TVR1-0-0-0-0-1555751128.png"
+		},
+		{
+			"id": 4,
+			"name": "TVR 2",
+			"url": "acestream://0151921ff4f90629be026fd4f3a2d6b82dcd60ce",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/tvr2-0-0-0-0-1555672926.png"
+		},
+		{
+			"id": 5,
+			"name": "TVR 3",
+			"url": "acestream://fa94e8d679229ff8c4afb58100746e025e386beb",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/tvr3-0-0-0-0-1563780004.png"
+		},
+		{
+			"id": 6,
+			"name": "HBO ",
+			"url": "acestream://113ac47b5e0d21dcbfc16c5c4a5a8724f054ba4d",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/HBO-0-0-0-0-1555592678.png"
+		},
+		{
+			"id": 7,
+			"name": "HBO 2",
+			"url": "acestream://518d3a1e308f2e53dde4e4ed9fec035f3da4a42a",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/hbo-2-0-0-0-0-1563731765.png"
+		},
+		{
+			"id": 8,
+			"name": "HBO 3",
+			"url": "acestream://095bc46b3c43144d645f821221832455729f8d87",
+			"icon": "https://mywebtv.info/storage/app/media/channels/hbo-3.png"
+		},
+		{
+			"id": 9,
+			"name": "Comedy Central",
+			"url": "acestream://d618637c10d50c6efa1ac68286d8ed462d614984",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Comedy_Central-dark-0-0-0-0-1563801472.png"
+		},
+		{
+			"id": 10,
+			"name": "National Geographic",
+			"url": "acestream://5b59a479b3dc95751a9edbb54b140383424df2e6",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/national-geographic-black-0-0-0-0-1563560711.png"
+		},
+		{
+			"id": 11,
+			"name": "Discovery Science",
+			"url": "acestream://2c7650d2f01102f03d397bfc4c46fb9a1d52fb67",
+			"icon": "https://mywebtv.info/storage/app/media/channels/discovery%20science.png"
+		},
+		{
+			"id": 12,
+			"name": "Discovery Channel",
+			"url": "acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Discovery_ch-black-2-0-0-0-0-1563559810.png"
+		},
+		{
+			"id": 13,
+			"name": "History",
+			"url": "acestream://15e85178bfe228a6655b27b48d8b01ef543e6870",
+			"icon": "https://mywebtv.info/storage/app/media/channels/history.png"
+		},
+		{
+			"id": 14,
+			"name": "National TV",
+			"url": "acestream://e3169b1015015320bdbf7081befc0d35fb9026d3",
+			"icon": "https://mywebtv.info/storage/app/media/channels/National%20TV%202.png"
+		},
+		{
+			"id": 15,
+			"name": "TV 1000",
+			"url": "acestream://9258b70f23c2962855918a13ff67bcb42ced8af8",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/tv%201000-0-0-0-0-1563732952.png"
+		},
+		{
+			"id": 16,
+			"name": "Prima TV",
+			"url": "acestream://5183457931c05909345be724f28c4da824ad053b",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/prima%20tv-0-0-0-0-1563524852.png"
+		},
+		{
+			"id": 17,
+			"name": "Paramount Channel",
+			"url": "acestream://73b4d9c2c33d67e3dc3dc4f7da633b458eded25d",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Paramount_Channel_blue-0-0-0-0-1563733502.png"
+		},
+		{
+			"id": 18,
+			"name": "Film Cafe",
+			"url": "acestream://fd4142b02f876ad8c46f72801b2963535cd771d3",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/film%20cafe-0-0-0-0-1563733260.png"
+		},
+		{
+			"id": 19,
+			"name": "Viasat History",
+			"url": "acestream://428306b01ec262d0ba1de65c526b020abd3e612e",
+			"icon": "https://mywebtv.info/storage/app/media/channels/Viasat%20History.png"
+		},
+		{
+			"id": 20,
+			"name": "Cinemax",
+			"url": "acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257",
+			"icon": "https://mywebtv.info/storage/app/media/channels/cinemax.png"
 		}
 	]
 }
