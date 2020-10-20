@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Pro Cinema" tvg-logo="https://streamtest.in/fallback/default.png?v=1592137168", Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1 , Pro Tv
-acestream://0ed726acf4a5ef04c93077f10f02729743f46f38
+acestream://807b53ada101028f845291353521e94a0d57885d
 #EXTINF:-1 , Pro X
 acestream://343a9aae2a4aabd31df04b77d7cccc0ca8308118
 #EXTINF:-1 , TVR 1 
