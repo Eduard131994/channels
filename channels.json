@@ -10,7 +10,7 @@
 		{
 			"id": 2,
 			"name": "Pro X",
-			"url": "acestream://343a9aae2a4aabd31df04b77d7cccc0ca8308118",
+			"url": "acestream://2fa4d46fab0d9b40d5caeb66b4b3adc330ec820e",
 			"icon": "https://mywebtv.info/storage/app/media/channels/pro%20x.png"
 		},
 		{
@@ -34,19 +34,19 @@
 		{
 			"id": 6,
 			"name": "HBO ",
-			"url": "acestream://113ac47b5e0d21dcbfc16c5c4a5a8724f054ba4d",
+			"url": "acestream://4b10a48f09a3505c59fdf8173b777b3e588bb790",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/HBO-0-0-0-0-1555592678.png"
 		},
 		{
 			"id": 7,
 			"name": "HBO 2",
-			"url": "acestream://518d3a1e308f2e53dde4e4ed9fec035f3da4a42a",
+			"url": "acestream://4459e4835130df47d1a130014c3095b379f4e771",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/hbo-2-0-0-0-0-1563731765.png"
 		},
 		{
 			"id": 8,
 			"name": "HBO 3",
-			"url": "acestream://095bc46b3c43144d645f821221832455729f8d87",
+			"url": "acestream://2ccb63ada7444c4153995baae40e86e8ef270e6c",
 			"icon": "https://mywebtv.info/storage/app/media/channels/hbo-3.png"
 		},
 		{
@@ -64,13 +64,13 @@
 		{
 			"id": 11,
 			"name": "Discovery Science",
-			"url": "acestream://8201dea0342ff861fa9a3888f343bffa6f3d6d55",
+			"url": "acestream://6ddb6731ee292cd43c88d70db13f545df294316b",
 			"icon": "https://mywebtv.info/storage/app/media/channels/discovery%20science.png"
 		},
 		{
 			"id": 12,
 			"name": "Discovery Channel",
-			"url": "acestream://b1332b4f0babdb2b033c57ec5ea74848b247668f",
+			"url": "acestream://5b80696df04212e4220def2137dbb0a13b7748fd",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Discovery_ch-black-2-0-0-0-0-1563559810.png"
 		},
 		{
