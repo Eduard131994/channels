@@ -120,6 +120,14 @@
 			"name": "Cinemax",
 			"url": "acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cinemax.png"
+		},
+		{
+			"id": 21,
+			"name": "Antena 1",
+			"url": "acestream://bbf8b0fcb4cc052bcde76d3be11a82bb1e7b7e75",
+			"icon": "https://mywebtv.info/storage/app/media/channels/Antena%201.png"
 		}
+		
+		
 	]
 }
