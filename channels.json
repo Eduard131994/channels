@@ -16,7 +16,7 @@
 		{
 			"id": 3,
 			"name": "TVR 1",
-			"url": "acestream://e7fa5081e6287a8adf69121eb564657514ffd396",
+			"url": "acestream://2bd5e7d79e9d97d2baf2461ba331e43a8b04b5bd",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/TVR1-0-0-0-0-1555751128.png"
 		},
 		{
@@ -76,7 +76,7 @@
 		{
 			"id": 13,
 			"name": "History",
-			"url": "acestream://58d4775ce3db6124f772916b476a46a0d1e4b3d7",
+			"url": "acestream://6530241acb5a8f5a775bc2ea0d8a92a2535585c0",
 			"icon": "https://mywebtv.info/storage/app/media/channels/history.png"
 		},
 		{
@@ -106,7 +106,7 @@
 		{
 			"id": 18,
 			"name": "Film Cafe",
-			"url": "acestream://d214b9fa0a4d7697aa7ff940ac659a20d3a04780",
+			"url": "acestream://41cc40683384e46e3a0d52c6aaaf1137898a142c",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/film%20cafe-0-0-0-0-1563733260.png"
 		},
 		{
@@ -118,7 +118,7 @@
 		{
 			"id": 20,
 			"name": "Cinemax",
-			"url": "acestream://9472be38c11c4d1abcc0970da9522a7f7ff22257",
+			"url": "acestream://c6b9a71b384b7fc6fa177e3536819f377fd03026",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cinemax.png"
 		},
 		{
