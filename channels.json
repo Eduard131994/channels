@@ -4,7 +4,7 @@
 		{
 			"id": 1,
 			"name": "Pro Tv",
-			"url": "acestream://89f483d0ce8b51528764f436a9b4669414ead49f",
+			"url": "acestream://4c2fe8a2aacee15252a8b582f283762e21a5404b",
 			"icon": "https://mywebtv.info/storage/app/media/channels/Pro%20TV%20HD.png"
 		},
 		{
@@ -16,7 +16,7 @@
 		{
 			"id": 3,
 			"name": "TVR 1",
-			"url": "acestream://2bd5e7d79e9d97d2baf2461ba331e43a8b04b5bd",
+			"url": "acestream://14da2edd63255fd4499a691d551893fb397ae794",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/TVR1-0-0-0-0-1555751128.png"
 		},
 		{
@@ -34,7 +34,7 @@
 		{
 			"id": 6,
 			"name": "HBO ",
-			"url": "acestream://4b10a48f09a3505c59fdf8173b777b3e588bb790",
+			"url": "acestream://6151207e91d6a8ba0780bd9386c26222a02f19f0",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/HBO-0-0-0-0-1555592678.png"
 		},
 		{
@@ -46,19 +46,19 @@
 		{
 			"id": 8,
 			"name": "HBO 3",
-			"url": "acestream://2ccb63ada7444c4153995baae40e86e8ef270e6c",
+			"url": "acestream://f9544ef9e50370fa3c4a0a91c1957be9159e188c",
 			"icon": "https://mywebtv.info/storage/app/media/channels/hbo-3.png"
 		},
 		{
 			"id": 9,
 			"name": "Comedy Central",
-			"url": "acestream://684df1b9b27892eb47e1819ac7da76aec3cf8b1d",
+			"url": "acestream://a2002a6c5658661533096684bd9f3e3bbc37986d",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Comedy_Central-dark-0-0-0-0-1563801472.png"
 		},
 		{
 			"id": 10,
 			"name": "National Geographic",
-			"url": "acestream://e7aae5e0a1c4c6e4cf49f8e79662a92309ba0454",
+			"url": "acestream://6513bfbe4d7e81261aecf712ecd4216372e459a5",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/national-geographic-black-0-0-0-0-1563560711.png"
 		},
 		{
@@ -70,13 +70,13 @@
 		{
 			"id": 12,
 			"name": "Discovery Channel",
-			"url": "acestream://5b80696df04212e4220def2137dbb0a13b7748fd",
+			"url": "acestream://add6f7a4d0c591d20ccff5475880bf1c316c1a01",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/Discovery_ch-black-2-0-0-0-0-1563559810.png"
 		},
 		{
 			"id": 13,
 			"name": "History",
-			"url": "acestream://6530241acb5a8f5a775bc2ea0d8a92a2535585c0",
+			"url": "acestream://3436106579d1b0a585a05cb3f3b99f1d5230cf8d",
 			"icon": "https://mywebtv.info/storage/app/media/channels/history.png"
 		},
 		{
@@ -106,13 +106,13 @@
 		{
 			"id": 18,
 			"name": "Film Cafe",
-			"url": "acestream://41cc40683384e46e3a0d52c6aaaf1137898a142c",
+			"url": "acestream://dd85b2520489e7a7b9959b8c9f471f5fde379372",
 			"icon": "https://mywebtv.info/storage/app/media/channels/cropped-images/film%20cafe-0-0-0-0-1563733260.png"
 		},
 		{
 			"id": 19,
 			"name": "Viasat History",
-			"url": "acestream://dbce9cf50a27b23c0de621d69bc0c910f6d9b3f1",
+			"url": "acestream://261afc837d87db04a77628cfcab858098001c566",
 			"icon": "https://mywebtv.info/storage/app/media/channels/Viasat%20History.png"
 		},
 		{
@@ -124,7 +124,7 @@
 		{
 			"id": 21,
 			"name": "Antena 1",
-			"url": "acestream://bbf8b0fcb4cc052bcde76d3be11a82bb1e7b7e75",
+			"url": "acestream://8c4b43dc274d54d061dce23f31f3d1063aaddb2b",
 			"icon": "https://mywebtv.info/storage/app/media/channels/Antena%201.png"
 		}
 		
